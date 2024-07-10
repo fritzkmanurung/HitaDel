@@ -1,0 +1,215 @@
+.post-media-container {
+    background-color: black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    overflow: hidden;
+    border-radius: 10px;
+}
+
+.post-media {
+    max-width: 100%;
+    max-height: 100%;
+    display: block;
+    margin: auto;
+}
+
+.btn {
+    border: none;
+}
+
+
+/* body {
+    font-family: 'Arial', sans-serif;
+    background-color: #f8f9fa;
+}
+
+.container {
+    margin-top: 20px;
+}
+
+.card {
+    border: none;
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0.1);
+    margin-bottom: 20px;
+}
+
+.card-header {
+    background-color: #007bff;
+    color: #fff;
+    font-weight: bold;
+}
+
+.card-body {
+    padding: 20px;
+}
+
+.btn-primary {
+    background-color: #007bff;
+    border-color: #007bff;
+}
+
+.btn-primary:hover {
+    background-color: #0056b3;
+    border-color: #0056b3;
+}
+
+.btn-danger {
+    background-color: #dc3545;
+    border-color: #dc3545;
+}
+
+.btn-danger:hover {
+    background-color: #c82333;
+    border-color: #c82333;
+}
+
+.btn-warning {
+    background-color: #ffc107;
+    border-color: #ffc107;
+}
+
+.btn-warning:hover {
+    background-color: #e0a800;
+    border-color: #e0a800;
+}
+
+.btn-link {
+    color: #007bff;
+    text-decoration: none;
+}
+
+.btn-link:hover {
+    text-decoration: underline;
+}
+
+.rounded-circle {
+    border-radius: 50%;
+}
+
+.like-btn {
+    color: #007bff;
+    cursor: pointer;
+}
+
+.like-btn.liked {
+    color: #0056b3;
+}
+
+.post-media-container {
+    background-color: #000;
+    overflow: hidden;
+    border-radius: 8px;
+}
+
+.post-media {
+    width: 100%;
+    height: auto;
+    display: block;
+} */
+
+/* .user-info {
+    margin-top: 10px;
+    margin-bottom: 15px;
+}
+
+.text-muted {
+    font-size: 0.8rem;
+}
+
+.comment-list {
+    list-style: none;
+    padding: 0;
+}
+
+.comment-list li {
+    margin-bottom: 10px;
+} */
+
+/* ----------------------------------------------------------------------------------- */
+.container {
+}
+.mt-4 {
+}
+.row {
+}
+.justify-content-center {
+}
+.col-md-8 {
+}
+.card {
+}
+.card-header {
+}
+.bg-primary {
+}
+.text-white {
+}
+.card-body {
+}
+.text-center {
+}
+.rounded-circle {
+}
+.mt-3 {
+}
+.alert {
+}
+.alert-success {
+}
+.btn {
+}
+.btn-primary {
+}
+.mb-3 {
+}
+.mb-4 {
+}
+.user-info {
+}
+.mt-2 {
+}
+.ml-2 {
+}
+.text-muted {
+}
+.mb-2 {
+}
+.post-media-container {
+}
+.img-fluid {
+}
+.post-media {
+}
+.btn-link {
+}
+.text-primary {
+}
+.like-btn {
+}
+.fas {
+}
+.fa-thumbs-up {
+}
+.font-weight-bold {
+}
+.form-group {
+}
+.form-control {
+}
+.btn-sm {
+}
+.fa-comment {
+}
+.list-unstyled {
+}
+.btn-danger {
+}
+.fa-trash {
+}
+.btn-warning {
+}
+.fa-edit {
+}
+.d-inline {
+}
